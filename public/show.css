@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(71, 71, 71);
+}
+.row{
+    overflow: hidden;
+}
+.row .card {
+    padding: 0 !important;
+}

@@ -1,0 +1,30 @@
+#success_message{ display: none;}
+
+.body{
+    background-color: rgb(71, 71, 71);
+}
+
+.body .container{
+    display: flex;
+    justify-content: center;
+}
+
+#contact_form{
+    margin: 2rem;
+    padding: 1rem;
+    background-color: rgb(71, 71, 71);
+    box-shadow: 1px 1px 70px rgb(49, 49, 49);
+    color: white;
+    border-radius: 10px;
+    
+}
+
+fieldset {
+ 
+    justify-content: center;
+}
+.form-group{
+    display: flex;
+    flex-direction: row;
+    padding: 1rem;
+}
